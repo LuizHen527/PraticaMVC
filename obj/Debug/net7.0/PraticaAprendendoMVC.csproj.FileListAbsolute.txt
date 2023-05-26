@@ -1,0 +1,15 @@
+C:\Users\38606125814\Desktop\back-end\PraticaAprendendoMVC\bin\Debug\net7.0\PraticaAprendendoMVC.exe
+C:\Users\38606125814\Desktop\back-end\PraticaAprendendoMVC\bin\Debug\net7.0\PraticaAprendendoMVC.deps.json
+C:\Users\38606125814\Desktop\back-end\PraticaAprendendoMVC\bin\Debug\net7.0\PraticaAprendendoMVC.runtimeconfig.json
+C:\Users\38606125814\Desktop\back-end\PraticaAprendendoMVC\bin\Debug\net7.0\PraticaAprendendoMVC.dll
+C:\Users\38606125814\Desktop\back-end\PraticaAprendendoMVC\bin\Debug\net7.0\PraticaAprendendoMVC.pdb
+C:\Users\38606125814\Desktop\back-end\PraticaAprendendoMVC\obj\Debug\net7.0\PraticaAprendendoMVC.csproj.AssemblyReference.cache
+C:\Users\38606125814\Desktop\back-end\PraticaAprendendoMVC\obj\Debug\net7.0\PraticaAprendendoMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38606125814\Desktop\back-end\PraticaAprendendoMVC\obj\Debug\net7.0\PraticaAprendendoMVC.AssemblyInfoInputs.cache
+C:\Users\38606125814\Desktop\back-end\PraticaAprendendoMVC\obj\Debug\net7.0\PraticaAprendendoMVC.AssemblyInfo.cs
+C:\Users\38606125814\Desktop\back-end\PraticaAprendendoMVC\obj\Debug\net7.0\PraticaAprendendoMVC.csproj.CoreCompileInputs.cache
+C:\Users\38606125814\Desktop\back-end\PraticaAprendendoMVC\obj\Debug\net7.0\PraticaAprendendoMVC.dll
+C:\Users\38606125814\Desktop\back-end\PraticaAprendendoMVC\obj\Debug\net7.0\refint\PraticaAprendendoMVC.dll
+C:\Users\38606125814\Desktop\back-end\PraticaAprendendoMVC\obj\Debug\net7.0\PraticaAprendendoMVC.pdb
+C:\Users\38606125814\Desktop\back-end\PraticaAprendendoMVC\obj\Debug\net7.0\PraticaAprendendoMVC.genruntimeconfig.cache
+C:\Users\38606125814\Desktop\back-end\PraticaAprendendoMVC\obj\Debug\net7.0\ref\PraticaAprendendoMVC.dll
