@@ -26,6 +26,7 @@ namespace MVC_projeto_gamer.Controllers
 
         public IActionResult Index()
         {
+            ViewBag.UserName = HttpContext.Session.GetString("UserName");
             //Variavel que armazena as equipes listadas do banco
             ViewBag.Equipe = c.Equipe.ToList();
             //Retorna a view de equipe
@@ -99,6 +100,7 @@ namespace MVC_projeto_gamer.Controllers
 
         public IActionResult Editar(int id)
         {
+            ViewBag.UserName = HttpContext.Session.GetString("UserName");
             Equipe equipe = c.Equipe.First(x => x.IdEquipe == id);
 
             ViewBag.Equipe = equipe;

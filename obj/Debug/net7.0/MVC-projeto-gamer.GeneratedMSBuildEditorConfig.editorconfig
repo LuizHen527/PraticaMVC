@@ -20,8 +20,8 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/38606125814/Desktop/back-end/MVC-projeto-gamer/Views/Equipe/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlXGluZGV4LmNzaHRtbA==
+[C:/Users/38606125814/Desktop/back-end/MVC-projeto-gamer/Views/Equipe/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/38606125814/Desktop/back-end/MVC-projeto-gamer/Views/Home/Index.cshtml]
@@ -32,8 +32,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/38606125814/Desktop/back-end/MVC-projeto-gamer/Views/Jogador/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/38606125814/Desktop/back-end/MVC-projeto-gamer/Views/Jogador/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9nYWRvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38606125814/Desktop/back-end/MVC-projeto-gamer/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/38606125814/Desktop/back-end/MVC-projeto-gamer/Views/Shared/Error.cshtml]
