@@ -35,6 +35,7 @@ namespace MVC_projeto_gamer.Controllers
         [Route("Logar")]
         public IActionResult Logar (IFormCollection form)
         {
+            
             string email = form["Email"].ToString();
             string senha = form["Senha"].ToString();
 
