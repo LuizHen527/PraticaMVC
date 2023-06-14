@@ -33,7 +33,7 @@ namespace MVC_projeto_gamer.Controllers
         }
 
         [Route("Logar")]
-        public IActionResult Logar (IFormCollection form)
+        public IActionResult Logar(IFormCollection form)
         {
             
             string email = form["Email"].ToString();
@@ -52,6 +52,14 @@ namespace MVC_projeto_gamer.Controllers
 
             return LocalRedirect("~/Login/Login");
 
+        }
+
+        [Route("Logout")]
+        public IActionResult Logout()
+        {
+            HttpContext.Session.Remove("UserName");
+
+            return LocalRedirect("~/");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

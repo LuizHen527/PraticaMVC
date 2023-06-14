@@ -6,6 +6,11 @@
 
 <h1>Edicao de Jogadorer</h1>
 
+@if(ViewBag.UserName == null)
+{
+    <a asp-area="" asp-controller="Login" asp-action="Index">Login</a>
+}
+else{
 <form method="post" action="@Url.Action("Atualizar")" enctype="multipart/form-data">
     <input type="hidden" name="IdJogador" value="@ViewBag.Jogador.IdJogador">
 
@@ -38,3 +43,6 @@
 
     <button type="submit">Editar</button>
 </form>
+
+}
+

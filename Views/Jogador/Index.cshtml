@@ -1,5 +1,10 @@
 @* Criar a view de jogardor *@
 
+@if(ViewBag.UserName == null)
+{
+    <a asp-area="" asp-controller="Login" asp-action="Index">Login</a>
+}
+else{
 <form method="post" action="@Url.Action("Cadastrar")">
     <label for="">Nome</label>
     <input type="text" name="Nome">
@@ -52,6 +57,9 @@
         }
     </tbody>
 </table>
+}
+
+
 
 
 
