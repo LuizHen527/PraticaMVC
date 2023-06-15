@@ -11,6 +11,17 @@
     <a asp-area="" asp-controller="Login" asp-action="Index">Login</a>
 }
 else{
+
+
+@* Colocar o form do index mudar action para atualizar *@
+
+
+
+
+
+
+
+
 <form method="post" action="@Url.Action("Atualizar")" enctype="multipart/form-data">
 
     <input type="hidden" name="idEquipe" value="@ViewBag.Equipe.IdEquipe">
